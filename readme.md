@@ -5,7 +5,8 @@ Creating simple API to manage historical info about companies -> Ifinance Python
 Based on Youtube tutorial -> to prepare for my own project in FAST API
 
 - Front-end -> Semantic UI
-- Testing API -> Insomnia 
+- Testing API -> Insomnia
+- DB -> SQLite + SQLAlechemy
 
 
 Some screens:

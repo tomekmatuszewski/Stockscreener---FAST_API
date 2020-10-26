@@ -6,7 +6,7 @@ Based on Youtube tutorial -> to prepare for my own project in FAST API
 
 - Front-end -> Semantic UI
 - Testing API -> Insomnia
-- DB -> SQLite + SQLAlechemy
+- DB -> SQLite + SQLAlchemy
 
 
 Some screens:
